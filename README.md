@@ -1,6 +1,6 @@
 # Feedback
 Feedback for anishshrestha.dev
-- Found an issue or typo? 
+- Found a bug or typo? 
 - Was I wrong in what I said?
 - You know a better way to make my projects better?
 
