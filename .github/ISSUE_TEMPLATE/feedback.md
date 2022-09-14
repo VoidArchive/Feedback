@@ -1,7 +1,7 @@
 ---
 name: Feedback
-about: What would you like to say?
-title: Have a great day!
+about: 'I have issue with:'
+title: Bug? Feedback? Typo?
 labels: ''
 assignees: VoidArchive
 
