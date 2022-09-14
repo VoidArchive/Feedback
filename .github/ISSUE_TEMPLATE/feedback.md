@@ -1,8 +1,8 @@
 ---
 name: Feedback
 about: 'I have issue with:'
-title: ''
-labels: ''
+title: Hello
+labels: question
 assignees: VoidArchive
 
 ---
